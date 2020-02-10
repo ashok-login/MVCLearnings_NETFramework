@@ -1,0 +1,8 @@
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessObjects\bin\Debug\netstandard2.0\DataAccessObjects.deps.json
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessObjects\bin\Debug\netstandard2.0\DataAccessObjects.dll
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessObjects\bin\Debug\netstandard2.0\DataAccessObjects.pdb
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessObjects\obj\Debug\netstandard2.0\DataAccessObjects.csprojAssemblyReference.cache
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessObjects\obj\Debug\netstandard2.0\DataAccessObjects.AssemblyInfoInputs.cache
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessObjects\obj\Debug\netstandard2.0\DataAccessObjects.AssemblyInfo.cs
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessObjects\obj\Debug\netstandard2.0\DataAccessObjects.dll
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessObjects\obj\Debug\netstandard2.0\DataAccessObjects.pdb

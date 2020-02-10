@@ -1,0 +1,11 @@
+﻿@model IEnumerable<MVCLearnings.Models.Department>
+@{
+    ViewBag.Title = "Departments";
+}
+<h2>@ViewBag.Title</h2>
+<ul>
+    @foreach (var dept in Model)
+    {
+        <li>@Html.ActionLink(dept.Name, "Index", "Employees", new { id = dept.Id }, null)</li>
+    }
+</ul>

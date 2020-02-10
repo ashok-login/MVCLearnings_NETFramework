@@ -1,0 +1,13 @@
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessObjects.dll
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessObjects.pdb
+F:\Ashok\VS2019\MVCLearnings_NETFramework\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
