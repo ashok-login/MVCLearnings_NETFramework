@@ -1,4 +1,5 @@
-﻿using MVCLearnings.Models;
+﻿using MVCLearnings.BLL;
+using MVCLearnings.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,6 +25,20 @@ namespace MVCLearnings.Controllers
         public ActionResult Create()
         {
             return View();
+        }
+
+        [HttpPost]
+        public ActionResult Create(Employee emp)
+        {
+            if(ModelState.IsValid)
+            { 
+                var empBLL = (new EmployeeBLL()).Create(emp);
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return View();
+            }
         }
     }
 }

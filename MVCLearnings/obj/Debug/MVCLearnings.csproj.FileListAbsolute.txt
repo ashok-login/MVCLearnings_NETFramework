@@ -72,4 +72,3 @@ F:\Ashok\VS2019\MVCLearnings_NETFramework\MVCLearnings\bin\EntityFramework.dll
 F:\Ashok\VS2019\MVCLearnings_NETFramework\MVCLearnings\bin\EntityFramework.SqlServer.dll
 F:\Ashok\VS2019\MVCLearnings_NETFramework\MVCLearnings\bin\EntityFramework.xml
 F:\Ashok\VS2019\MVCLearnings_NETFramework\MVCLearnings\bin\EntityFramework.SqlServer.xml
-F:\Ashok\VS2019\MVCLearnings_NETFramework\MVCLearnings\obj\Debug\MVCLearnings.csprojAssemblyReference.cache
